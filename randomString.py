@@ -16,3 +16,4 @@ while catString != 'cat':
     catString = randomString(3)
 
 print (count, catString)
+
